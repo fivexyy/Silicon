@@ -75,8 +75,6 @@ elseif string.find(gameName, "greenville") then
     loadstring(game:HttpGet("https://luaprot.net/api/v2/loaders/get/55536199696471763640"))()
 elseif string.find(gameName, "grow a garden 2") then
     loadstring(game:HttpGet("https://luaprot.net/api/v2/loaders/get/40632374044555415634"))()
-elseif string.find(gameName, "mojave valley") then
-    loadstring(game:HttpGet("https://luaprot.net/api/v2/loaders/get/93727550332460870282"))()
 elseif string.find(gameName, "sell lemons") then
     loadstring(game:HttpGet("https://luaprot.net/api/v2/loaders/get/22669819141779999346"))()
 elseif string.find(gameName, "young street, ontario") or string.find(gameName, "young street") then
