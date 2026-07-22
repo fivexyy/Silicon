@@ -12,7 +12,8 @@ local allowedExecutors = {
     "Delta",
     "Codex",
     "YubX",
-    "Real"
+    "Real",
+    "Cosmic"
 }
 
 local function checkExecutor()
